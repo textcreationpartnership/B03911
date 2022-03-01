@@ -1,0 +1,1040 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the conversion of Theodore John, a late teacher among the Jews, together with his confession of the Christian faith, which he delivered immediately before he was baptized in the presence of the Lutheran congregation in the German church in Little-Trinity Lane, London, on the 23d. Sunday after Trinity, being the 31st. of October, in the year of our Lord God 1692. Translated out of High Dutch into English.</title>
+            <author>John, Theodore.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03911</idno>
+            <idno type="OCLC"> 9369848</idno>
+            <idno type="STC">Wing J762</idno>
+            <idno type="STC">Interim Tract Supplement Guide 482.b.3[15]</idno>
+            <idno type="STC">ESTC R26146</idno>
+            <idno type="EEBO-CITATION">99889358</idno>
+            <idno type="PROQUEST">ocm99889358</idno>
+            <idno type="VID">183680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183680)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:3[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the conversion of Theodore John, a late teacher among the Jews, together with his confession of the Christian faith, which he delivered immediately before he was baptized in the presence of the Lutheran congregation in the German church in Little-Trinity Lane, London, on the 23d. Sunday after Trinity, being the 31st. of October, in the year of our Lord God 1692. Translated out of High Dutch into English.</title>
+                  <author>John, Theodore.</author>
+               </titleStmt>
+               <extent>[12], 54, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Dunton, at the Raven in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price 6d.</note>
+                  <note>With an initial imprimatur leaf.</note>
+                  <note>With three final leaves of advertisements.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian converts from Judaism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:183680:1"/>
+            <p>IMPRIMATUR.</p>
+            <p>
+               <hi>March</hi> 9. 1692/3.</p>
+            <closer>
+               <signed>Ra. Barker.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:183680:1"/>
+            <p>AN ACCOUNT OF THE <hi>Converſion</hi> OF THEODORE JOHN, A late Teacher among the JEWS, Together with his Confeſſion of the CHRISTIAN FAITH, Which he delivered immediately be<g ref="char:EOLhyphen"/>fore he was Baptized in the Preſence of the <hi>Lutheran</hi> Congregation in the <hi>German</hi> Church in <hi>Little Trinity-Lane, London,</hi> on the <hi>23d.</hi> Sunday after Trinity, being the <hi>31st.</hi> of <hi>October,</hi> in the Year of our Lord God 1692.</p>
+            <p>
+               <hi>Tranſlated out of</hi> High Dutch <hi>into</hi> Engliſh.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1693.</p>
+            <p>Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:183680:2"/>
+            <pb facs="tcp:183680:2"/>
+            <head>To all them that Love the Lord JESUS CHRIST in ſincerity.</head>
+            <opener>
+               <salute>Brethren, and Fellow-Chriſtians,</salute>
+            </opener>
+            <p>ALmighty God having out of his unſpeakable Good<g ref="char:EOLhyphen"/>neſs and Mercy vouchſa<g ref="char:EOLhyphen"/>fed to call me lately from the groſs Darkneſs of blind <hi>Judaiſm</hi> to the ſaving Light of his Holy Goſpel, I found my ſelf obliged in <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> not to conceal from any
+<pb facs="tcp:183680:3"/>of you theſe great Things the Lord has ſhewed into me, but publickly to declare them unto you, and all them that ſee or hear this, to the end that we may all Rejoyce together in him, giving Thanks unto the Fa<g ref="char:EOLhyphen"/>ther, who has made us meet to be partakers of the Inheritance of the Saints in Light, who bath delivered us from the Power of Darkneſs, and tranſlated us into the <hi>Kingdom of his Dear Son,</hi> in whom we have Redemption through his Blood, even the for<g ref="char:EOLhyphen"/>giveneſs of our Sins; as alſo that we may with one Mind, and one Mouth pray to God for the <hi>Con<g ref="char:EOLhyphen"/>verſion of my Brethren</hi> accord<g ref="char:EOLhyphen"/>ing to the Fleſh, that God would be pleaſed to make good his bleſ<g ref="char:EOLhyphen"/>ſed Word, ſpoken by his Holy Prophets and Apoſtles, that af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:183680:3"/>the fulneſs of the <hi>Gentiles</hi> is come in, the Remnant of <hi>Iſrael,</hi> and thoſe that are eſcaped of the Houſe of <hi>Jacob</hi> ſhall return to the Mighty God, and ſeek the Lord, and <hi>David</hi> their King, even our Bleſſed Saviour and Redeemer Jeſus Christ.</p>
+            <p>I was born at <hi>Prague</hi> in <hi>Bohe<g ref="char:EOLhyphen"/>mia,</hi> and lived Thirty Years in Ignorance and <hi>Abnegation of Chriſt;</hi> I ſtudyed the <hi>Talmud</hi> of the <hi>Jews,</hi> and the rest of their Fabulous Comments, and I became a <hi>Teacher</hi> among them at <hi>Treves</hi> in <hi>Germany. When the blind lead the blind, ſhould they not both fall into the Ditch?</hi> But God meant for good the evil I wrought againſt my ſelf, as it is brought to paſs this day, to
+<pb facs="tcp:183680:4"/>the ſaving of my Soul. I had ſtrong <hi>Convictions</hi> within my ſelf from the Scriptures of the Old Teſtament (for thoſe of the New I had never ſtudyed then, and that is the Reaſon why the prin<g ref="char:EOLhyphen"/>cipal Proofs in my <hi>Confeſſion</hi> are taken thence) against thoſe Prin<g ref="char:EOLhyphen"/>ciples taught me from my Child<g ref="char:EOLhyphen"/>hood, and maintained by me when I came to Years of Diſcretion, although ſome Precious Pearls diſcovered themſelves unto me, even in the <hi>Dunghil of Jewiſh Fables;</hi> I would ſay, ſome marks of Divine Truth conſonant to the Word of Everlaſting Truth I met with amongst their Blaſphemous Lyes; and although for ſeveral Years I was doubtful whether to bury in Oblivion, or to improve with
+<pb facs="tcp:183680:4"/>ſolid Management the thoughts of <hi>Anti-Judaiſm,</hi> yet ſo prevalent was the Grace of God upon me, that find<g ref="char:EOLhyphen"/>ing the former impoſſible, I at<g ref="char:EOLhyphen"/>tempted the latter, with <hi>Fervent Prayers</hi> imploring God's Aſſiſtance to guide me into the way of Sa<g ref="char:EOLhyphen"/>ving Truth.</p>
+            <p>But being fearful lest my <hi>Bre<g ref="char:EOLhyphen"/>thren,</hi> who are too many and power<g ref="char:EOLhyphen"/>ful in <hi>Germany,</hi> ſhould diſcover and put a malicious ſtop to my <hi>Good Intentions,</hi> I durst not ven<g ref="char:EOLhyphen"/>ture to Addreſs my ſelf to any <hi>Profeſſor of Chriſtianity,</hi> but re<g ref="char:EOLhyphen"/>ſolved to go for <hi>England,</hi> where the <hi>Jews</hi> are leſs in Number and Authority; and coming hither, I happened by Divine Providence to Lodge in the ſame Houſe with one
+<pb facs="tcp:183680:5"/>Mr. <hi>Heipel</hi> of <hi>Strasburg,</hi> M. A. and a Perſon well skilled in Di<g ref="char:EOLhyphen"/>vinity, who having ſeveral times conferred with me about Matters of Religion, did at his departure for <hi>Germany,</hi> introduce me to Mr. <hi>Jo. Eſdras Edzard,</hi> a <hi>Luthe<g ref="char:EOLhyphen"/>ran</hi> Divine, and Miniſter to the <hi>German</hi> Church eſtabliſhed in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> according to the <hi>Augsburg Confeſſion,</hi> who like a <hi>Spiritual Father</hi> begat me into Christ, ut<g ref="char:EOLhyphen"/>terly Convincing, and faithfully Inſtructing me, and by the Grace of God made me a Member of the Church of Christ, <hi>preſenting me to his Congregation, where I delivered my Confeſſion,</hi> and was Baptized in the Name of the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghost, whoſe Holy Name be bleſſed and praiſed
+<pb facs="tcp:183680:5"/>for his Wonderful Mercy, by which he wrought ſo great a Confeſſion by me.</p>
+            <p>Here is my <hi>Confeſſion,</hi> Fellow-Chriſtians, preſented to you all, as ſome of you have deſired, you can expect no Curioſity in the Tran<g ref="char:EOLhyphen"/>ſlation, the <hi>Tranſlator being a German,</hi> and not ſo well acquain<g ref="char:EOLhyphen"/>ted with the <hi>Engliſh</hi> Tongue; but if you examine the ſtrength and firmneſs of the Arguments contain<g ref="char:EOLhyphen"/>ed therein, by which I was <hi>con<g ref="char:EOLhyphen"/>vinced, and became a Chriſtian,</hi> I hope you will find the Truth of our Saviour's Goſpel faithfully ex<g ref="char:EOLhyphen"/>preſs'd, and ingeniouſly confeſs'd therein.</p>
+            <pb facs="tcp:183680:6"/>
+            <p>
+               <hi>Finally,</hi> Good Chriſtians, I de<g ref="char:EOLhyphen"/>ſire your hearty Prayers to Al<g ref="char:EOLhyphen"/>mighty God, the Father of our Lord <hi>Jeſus Chriſt,</hi> the God of all Grace, that (having now called me together with you unto his Eter<g ref="char:EOLhyphen"/>nal Glory by <hi>Chriſt Jeſus</hi>) he make me perfect, ſtabliſh, ſtrength<g ref="char:EOLhyphen"/>en, and ſettle me; to him be Glo<g ref="char:EOLhyphen"/>ry, and Dominion, together with <hi>the Son,</hi> and Holy Ghost, for ever and ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From my Lodgings at Mr.</hi> Mears, <hi>Hatter, in</hi> Puddle-Dock, <date>March <hi>16. 1692/3.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:183680:6"/>
+            <head>THEODORE JOHN'S CONFESSION OF THE Chriſtian Faith: DELIVER'D At his Baptiſm, <hi>&amp;c.</hi>
+            </head>
+            <p>Q. <hi>WHat Religion are you of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am a Jew.</p>
+            <p>Q. <hi>What is your Name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Iom Tobh.</p>
+            <p>Q. <hi>Where were you born?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> At <hi>Prague</hi> in <hi>Bohemia.</hi>
+            </p>
+            <pb n="2" facs="tcp:183680:7"/>
+            <p>Q. <hi>What is your Age?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am 30 years old.</p>
+            <p>Q. <hi>What was your Calling?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I was a Teacher among the Jews, at <hi>Treves</hi> in <hi>Germany.</hi>
+            </p>
+            <p>Q. <hi>What is your deſire?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To be baptized with holy Baptiſm.</p>
+            <p>Q. <hi>To what purpoſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That I may become a Chri<g ref="char:EOLhyphen"/>ſtian.</p>
+            <p>Q. <hi>What reaſon have you to turn Chriſtian?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe by the Grace of God I have got a true account from the Writings of <hi>Moſes</hi> and the Prophets, concerning the Perſon and Office of the <hi>Meſſias,</hi> by which knowledge I was convinced of the groſs and blind Errors of <hi>Judaiſm,</hi> and of their vain waiting for a <hi>Meſſias,</hi> an Earthly Prince, (as they would have him) and having farther made a diligent exploration and tryal of the Chriſtian Faith, according to the Rule of the Holy Scripture in the Old Teſtament, compared with
+<pb n="3" facs="tcp:183680:7"/>the Expoſitions of the ancient Jews themſelves, I found the ſaid Chri<g ref="char:EOLhyphen"/>ſtian Faith to be in all its Articles firmly grounded upon the Word of God, and agreeing with the Faith of the former true <hi>Iſrael,</hi> in the time of the Patriarchs, as well as that of <hi>Moſes</hi> and all the Prophets: which I praiſe God for, and heartily re<g ref="char:EOLhyphen"/>joyce in.</p>
+            <p>Q. <hi>Which are the chief Errors you diſcover'd in blind Judaiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All their Doctrine is naught, but eſpecially that of the <hi>Meſſias</hi>'s Perſon and Office, and of their vain looking for his coming, when real<g ref="char:EOLhyphen"/>ly he is come long ago.</p>
+            <p>Q. <hi>Do you believe then, and are you fully convinced that the</hi> Meſſias <hi>is come?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I do believe it, and am fully convinced of it.</p>
+            <p>Q. <hi>By what Arguments?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe 'tis known to all the World, that the Scepter is departed from the Jews, <hi>Jeruſalem,</hi> and the Sanctuary deſtroy'd, <hi>Bethlehem</hi> the
+<pb n="4" facs="tcp:183680:8"/>native Town of the <hi>Meſſias</hi> deſola<g ref="char:EOLhyphen"/>ted, the Sacrifices and Oblations ceaſed, and the ſeventy years of <hi>Da<g ref="char:EOLhyphen"/>niel</hi> paſt long ago.</p>
+            <p>Q. <hi>How does the departing of the Scepter from the Jews convince you?</hi>
+            </p>
+            <p>
+               <hi>A. Jacob</hi> did prophecy, <hi>Gen.</hi> 49.10. that <hi>the Scepter ſhould not de<g ref="char:EOLhyphen"/>part from Judah, nor a Law-giver from between his Feet, until Shiloh came, and unto him ſhould be the gathe<g ref="char:EOLhyphen"/>ring of the people.</hi> But the Scepter has been taken away long ſince; the Jews have had neither King nor Duke, nor <hi>Sanhedrin,</hi> for theſe ſixteen hundred years paſt, there<g ref="char:EOLhyphen"/>fore the <hi>Meſſias</hi> muſt needs be come.</p>
+            <p>Q. <hi>But how are you aſſured that Jacob did ſpeak of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> I am ſure of it, firſt, by the Name <hi>Shiloh,</hi> which by interpreta<g ref="char:EOLhyphen"/>tion is a Peace-maker, being almoſt the ſame with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Prince of Peace, one of the <hi>Meſſias</hi>'s Names, <hi>Iſa.</hi> 9.6. Secondly, by the gathering of Nations here expreſ<g ref="char:EOLhyphen"/>ſed,
+<pb n="5" facs="tcp:183680:8"/>a thing belonging to the <hi>Meſſias</hi> without queſtion, according to the parallel Prophecies of <hi>Iſa.</hi> 11.2. <hi>Mich.</hi> 4.1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and all Nations ſhall flow unto him, at <hi>Iſ.</hi> 11.10. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Gentiles ſhall ſeek him.</hi> The Chaldaic Paraphraſe tranſlates <hi>Shiloh</hi> with <hi>Meſſias.</hi> I find alſo in <hi>Baal Turim,</hi> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Meſſias.</hi>
+            </p>
+            <p>Q. <hi>How does the deſtruction of</hi> Je<g ref="char:EOLhyphen"/>ruſalem, <hi>and the Sanctuary, evince the Coming of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> It was propheſied by <hi>Malachy, c.</hi> 3. <hi>v.</hi> 1. that the <hi>Meſſias</hi> ſhould come ſuddenly to his Temple, which was the ſecond Houſe then ſtand<g ref="char:EOLhyphen"/>ing, and but lately finiſh'd. By <hi>Daniel</hi> we are told <hi>c.</hi> 9. <hi>v.</hi> 26. that the <hi>Meſſias</hi> ſhould be out off, and the City and Sanctuary deſtroyed: Wherefore ſince it is true, that <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> and the Temple have been deſtroyed, it is moſt certain, that the <hi>Meſſias</hi> was come and out off before.</p>
+            <pb n="6" facs="tcp:183680:9"/>
+            <p>Q. <hi>By what Name is the</hi> Meſſias <hi>mentioned there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God calls him the <hi>Lord of the Temple,</hi> and the <hi>Meſſenger of the Covenant.</hi>
+            </p>
+            <p>Q. <hi>Is the</hi> Meſſias <hi>ſignified here<g ref="char:EOLhyphen"/>by?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, he is; for none other, neither Man nor Angel could be called ſo; the Temple was the Lord's Temple, and the Covenant was to be made by the <hi>Meſſias, Dan.</hi> 9. <hi>ult.</hi>
+            </p>
+            <p>Q. <hi>What Argument proves the de<g ref="char:EOLhyphen"/>ſtruction of</hi> Bethlehem?</p>
+            <p>
+               <hi>A. Micah,</hi> in the 5 <hi>ch.</hi> and <hi>v.</hi> 1. tells us, that from <hi>Bethlehem,</hi> a place ſtanding in thoſe times, ſhould the <hi>Meſſias</hi> come, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Ruler in <hi>Iſrael;</hi> but it being now above Sixteen hundred years ſince the ſaid <hi>Bethlehem</hi> was deſtroyed, it's impoſſible but the <hi>Meſſias</hi> muſt be come.</p>
+            <p>Q. <hi>Is this Ruler then the</hi> Meſſias?</p>
+            <pb n="7" facs="tcp:183680:9"/>
+            <p>
+               <hi>A.</hi> Yes, it is he; as may be ſeen not only by the Context it ſelf, where it is ſaid, that <hi>his goings forth have been of old from everlaſting,</hi> but alſo the Chaldaic Tranſlation renders it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>egredietur</hi> Meſſias, and has got the Conſent of the moſt learned ancient Jews.</p>
+            <p>Q. <hi>How can you prove the Coming of the</hi> Meſſias <hi>from the ceſſation of the Jewiſh Sacrifices and Oblations?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>Meſſias</hi> himſelf, accor<g ref="char:EOLhyphen"/>ding to the Prophecy of <hi>Daniel,</hi> ſhould make the Sacrifices and Ob<g ref="char:EOLhyphen"/>lations to ceaſe, but they have cea<g ref="char:EOLhyphen"/>ſed long ago: therefore it is plain that the <hi>Meſſias</hi> is come.</p>
+            <p>
+               <hi>Q. By what means ſhould the</hi> Meſ<g ref="char:EOLhyphen"/>ſias <hi>do that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his Death and Paſſion, as it is written, that <hi>he ſhould make his ſoul</hi> (that is himſelf) <hi>an Offering for ſin, Iſa.</hi> 53. which the <hi>Jews</hi> them<g ref="char:EOLhyphen"/>ſelves
+<pb n="8" facs="tcp:183680:10"/>cannot deny, but plainly con<g ref="char:EOLhyphen"/>feſs, that the <hi>Meſſias</hi> ſhould be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, inſtead of the Sacrifices, and that Sin, as to the guilt and puniſhment thereof, ſhould be taken away by him, as formerly it was done by the Sacrifices.</p>
+            <p>Q. <hi>What account can you give of</hi> Daniel<hi>'s ſeventy weeks?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Every week making ſeven years, the whole amounts to 490 years.</p>
+            <p>Q. <hi>What ſhould be done in that time?</hi>
+            </p>
+            <p>
+               <hi>A. Jeruſalem</hi> and the Sanctuary ſhould be reſtored, the <hi>Meſſias</hi> come to finiſh Tranſgreſſion, to make an end of ſin, and to ſeal up the Viſion and Prophecy, the <hi>Meſſias</hi> alſo ſhould be cut off, and all this done within the ſpace of theſe ſeventy weeks, determin'd to that purpoſe, without any prolongation, as the
+<pb n="9" facs="tcp:183680:10"/>original word. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> imports, <hi>Dan.</hi> 9.24.</p>
+            <p>Q. <hi>Are theſe</hi> 490 <hi>years expired al<g ref="char:EOLhyphen"/>ready?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are expir'd four, nay, almoſt five times ſince, by which it plainly appears, that the <hi>Meſſias</hi> is come long ago.</p>
+            <p>Q. <hi>What do the Jews oppoſe a<g ref="char:EOLhyphen"/>gainſt it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They do not know what to ſay to it; they do confeſs in their own Talmud and elſewhere, that all the Terms appointed for the coming of the <hi>Meſſias</hi> are expired, and that the <hi>Meſſias</hi> was really born, and yet for all that they expect him ſtill.</p>
+            <p>Q. <hi>But how can they expect him, ſeeing he was born according to their own Confeſſion?</hi>
+            </p>
+            <pb n="10" facs="tcp:183680:11"/>
+            <p>
+               <hi>A.</hi> They confeſs, that he was born before the deſtruction of the Temple, but they deny that he was come or diſcovered; they make a Story, that he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Sanhedrim.</hi>
+            </p>
+            <p>Q. <hi>But is the diſtinction between Birth and Coming of any value?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not at all; Scripture knows of no ſuch diſtinction: It is ſaid every where of the <hi>Meſſias,</hi> He ſhall come, come to his Temple, come <hi>before the ſcepter ſhould depart from</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>come and be cut off;</hi> which needs muſt import an appearance or diſ<g ref="char:EOLhyphen"/>covery: For, how could he be cut off without being diſcovered?</p>
+            <p>Q. <hi>What Reaſon do the Jews al<g ref="char:EOLhyphen"/>ledge for the hiding or concealing of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> The Sin of their Nation.</p>
+            <pb n="11" facs="tcp:183680:11"/>
+            <p>Q. <hi>Is there any Ground for this Pro<g ref="char:EOLhyphen"/>tence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not the leaſt: The Coming of the <hi>Meſſias</hi> was abſolutely promi<g ref="char:EOLhyphen"/>ſed by God, and not upon condi<g ref="char:EOLhyphen"/>tion of either the Piety or Impiety of the Jews. It is not to be belie<g ref="char:EOLhyphen"/>ved that the Sins of a Nation ſhould make the abſolute Promiſes of God to be void, and of none effect: It is more probable, that for the tranſ<g ref="char:EOLhyphen"/>greſſion ſake the <hi>Meſſias</hi> would have haſtened rather than delay'd his Coming, becauſe his Intention was to take away Sin, and to finiſh Tranſgreſſion: Which the Jews themſelves confeſs in the <hi>Talmud,</hi> in theſe words: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; that is to ſay, when the Jews ſhall deſerve it, then God will haſten the <hi>Meſſias</hi>'s Coming: But if they deſerve it not, yet he ſhall come at the time appointed.</p>
+            <pb n="12" facs="tcp:183680:12"/>
+            <p>Q. <hi>What does</hi> Meſſias <hi>ſignifie in Engliſh?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> One that is anointed.</p>
+            <p>Q. <hi>Wherewith ſhould the</hi> Meſſias <hi>be anointed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> With the Holy Ghoſt, the Oil of Gladneſs.</p>
+            <p>Q. <hi>Have you Scripture for that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The <hi>Meſſias</hi> himſelf ſays, <hi>Iſa.</hi> 61.1. <hi>The ſpirit of the Lord is upon me, becauſe the Lord has anointed me.</hi> And <hi>Pſal.</hi> 45. we read theſe words, <hi>Thy throne, O God, is for ever and ever: thou loveſt righteouſneſs, therefore, O God, thy God has anointed thee with the oyl of gladneſs.</hi>
+            </p>
+            <p>Q. <hi>To what purpoſe ſhould he be anointed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To his threeſold Office.</p>
+            <pb n="13" facs="tcp:183680:12"/>
+            <p>Q. <hi>What threefold Office ſhould he have?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That of a Prophet, an High-Prieſt, and a King.</p>
+            <p>Q. <hi>How can you prove that the</hi> Meſſias <hi>was to be a Prophet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God has ſpoken unto <hi>Moſes, Deut.</hi> 18.18, 19. concerning the <hi>Meſſias,</hi> thus; <hi>I will raiſe them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth, and it ſhall come to paſs, that whoſoever will not hearken unto my words, which he ſhall ſpeak in my name, I will require it of him.</hi>
+            </p>
+            <p>Q. <hi>Does God ſpeak there of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> Yes, he does: for we read <hi>Deut.</hi> 34.10. that there aroſe not a Prophet like unto <hi>Moſes,</hi> but the <hi>Meſſias</hi> ſhould be not on<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:183680:13"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, like to him, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, greater than <hi>Moſes,</hi> according to the Judgment of the Jews them<g ref="char:EOLhyphen"/>ſelves in <hi>Ikkarim.</hi>
+            </p>
+            <p>Q. <hi>What did belong to his Propheti<g ref="char:EOLhyphen"/>cal Office?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The preaching of the Goſpel, <hi>Iſa.</hi> 61.1. and the eſtabliſhing of a new Covenant, <hi>Dan.</hi> 9. <hi>ult. Jer.</hi> 31.</p>
+            <p>Q. <hi>What Scripture have you to prove that the</hi> Meſſias <hi>ſhould be an High Prieſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This, <hi>Pſ.</hi> 110. <hi>The Lord hath ſworn thou art a prieſt for ever, after the order of Melchiſedeck.</hi>
+            </p>
+            <p>Q. <hi>Are you ſure that the</hi> Meſſias <hi>is intended there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, he is the Object of the whole Pſalm, according to the con<g ref="char:EOLhyphen"/>feſſion of the Jews themſelves; and
+<pb n="15" facs="tcp:183680:13"/>it will plainly appear to be ſo from the Context, eſpecially when he is ſtiled a Prieſt for ever, ſince it is known that all other Prieſts did ceaſe from their Prieſthood by way of death.</p>
+            <p>Q. <hi>What makes him to be called a Prieſt after the Order of Melchiſe<g ref="char:EOLhyphen"/>deck?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he was to be both a Prieſt and a King, as <hi>Mel<g ref="char:EOLhyphen"/>chiſedeck</hi> was, he ſhould have neither Predeceſſor nor Succeſſor, neither beginning of days nor end of life; none of which were mentioned in Scripture from <hi>Melchiſedeck,</hi> for the <hi>Meſſias</hi>'s ſake.</p>
+            <p>Q. <hi>What was he to do, in reſpect to the Office of his Prieſthood?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To make Oblations and Atonement for us.</p>
+            <pb n="16" facs="tcp:183680:14"/>
+            <p>Q. <hi>The High-Prieſts made their Oblations of ſeveral ſorts of Beaſts, What was the</hi> Meſſias <hi>to offer?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Himſelf, according to the Prophecy of <hi>Iſa. c.</hi> 33. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where it is ſaid, that the <hi>Meſſias</hi> ſhall make his Soul, that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf, an Offering for Sin; which is the ſame with the Jewiſh Tradi<g ref="char:EOLhyphen"/>tion before mentioned, That th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Meſſias</hi> ſhould be inſtead of the Sa<g ref="char:EOLhyphen"/>crifices.</p>
+            <p>Q. <hi>What is the meaning of that ex<g ref="char:EOLhyphen"/>preſſion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As formerly, the Sin of t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whole Congregation was to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confeſſed over, and put upo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Goat of Sin offering, and th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Goat bearing all the Iniquiti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was to be killed, for the reconcil<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of the People: So upon <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Meſſias</hi> ſhould be laid all the S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Iniquities of Mankind, both <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:183680:14"/>to Guilt and Puniſhment, for which he ſhould be put to death, whilſt we were healed and reconciled to God.</p>
+            <p>Q. <hi>Have you Scripture for this Aſ<g ref="char:EOLhyphen"/>ſertion?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, the whole 53d Chapter of <hi>Iſaiah</hi> does plainly affirm it; do but conſider <hi>v.</hi> 4, 5, &amp; 6. <hi>Surely he has born our griefs, and carried our Sorrows: He was wounded for our tranſgreſſions, he was bruiſed for our iniquities: The chaſtiſement of our peace was upon him, and with his ſtripes we are healed: the Lord hath laid on him the iniquities of us all.</hi>
+            </p>
+            <p>Q. <hi>But are you ſure that this Pre<g ref="char:EOLhyphen"/>phecy is ſpoken of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> The Context makes it clear, becauſe it is ſaid, he had done no Violence, neither was any Deceit in his Mouth; and further, That by his Knowledge he ſhould juſti<g ref="char:EOLhyphen"/>fie
+<pb n="18" facs="tcp:183680:15"/>many, and bear their Iniquities. Beſides, I find it in the Jewiſh Tal<g ref="char:EOLhyphen"/>mud, in <hi>Zohar</hi> and elſewhere, by the Rabbins unanimouſly applied to the <hi>Meſſias.</hi>
+            </p>
+            <p>Q. <hi>Was it ſaid that the</hi> Meſſias, <hi>ſhould be a King?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, God himſelf declares him a King, <hi>Jer.</hi> 23.5. <hi>He ſhall reign a King, and proſper.</hi> In <hi>Zechariah</hi> and other places he is ſtiled the King of <hi>Zion.</hi>
+            </p>
+            <p>Q. <hi>What does belong to his Royal Office?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The ruling and protecting of his Church.</p>
+            <p>Q. <hi>Let me know the quality of his Kingdom?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His Kingdom ſhould be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſpiritual King<g ref="char:EOLhyphen"/>dom, not a worldly Kingdom, and for this reaſon the <hi>Meſſias</hi> is ſaid to
+<pb n="19" facs="tcp:183680:15"/>be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the ſame place where he is called King, <hi>Zechariah</hi> 9.10, 11.</p>
+            <p>Q. <hi>Does this refer to the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> It's impoſſible any other man could be intended here but the <hi>Meſ<g ref="char:EOLhyphen"/>ſias;</hi> this is <hi>Rabbi Salomon Jarchi</hi>'s own Confeſſion, which he proves principally from theſe words in the Context: <hi>He ſhall ſpeak peace unto the Heathen, and his dominion ſhall be from ſea even to ſea, and from the river even to the ends of the earth.</hi>
+            </p>
+            <p>Q. <hi>What ſhould the</hi> Meſſias <hi>be as to his perſon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Both God and Man in one Perſon.</p>
+            <p>Q. <hi>How can you prove this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I prove it by ſeveral Argu<g ref="char:EOLhyphen"/>ments; firſt, by the Names given the <hi>Meſſias.</hi>
+            </p>
+            <pb n="20" facs="tcp:183680:16"/>
+            <p>Q. <hi>What Names?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is called by the Name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is God's own pecu<g ref="char:EOLhyphen"/>liar and eſſential Name.</p>
+            <p>Q. <hi>Shew me a place where he is cal<g ref="char:EOLhyphen"/>led ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jer. 23.6. God himſelf ſaith, that the <hi>Meſſias</hi>'s Name, whereby he ſhould be called, is <hi>Jehovah Zidkenu,</hi> the Lord our Righteouſneſs.</p>
+            <p>Q. <hi>But does God ſpeak here of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> Yes, by all means; as eaſily will appear not only from the Con<g ref="char:EOLhyphen"/>text, but alſo from the Jewiſh Tal<g ref="char:EOLhyphen"/>mud, and other Rabbins, who una<g ref="char:EOLhyphen"/>nimouſly apply this Prophecy to the <hi>Meſſias.</hi> You will find more than ſeventy Inſtances collected from the Jewiſh Writings, by I. <hi>E. Edzard</hi> in his <hi>Conſenſus Antiquita<g ref="char:EOLhyphen"/>tis
+<pb n="21" facs="tcp:183680:16"/>Judaicae ſuper</hi> h. l.</p>
+            <p>Q. <hi>But what Evidence is there, that</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>is God's own eſſontial Name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God himſelf ſpeaks to <hi>Moſes, Exod.</hi> 3.15. <hi>This is my name for ever,</hi> and <hi>Iſa.</hi> 42.8. he ſays, <hi>I am the Lord, that is my name, and my glory I will not give unto another.</hi>
+            </p>
+            <p>Q. <hi>What do the</hi> Rabbies <hi>ſay of that Name?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They commonly call it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to ſay, a proper and peculiar Name belonging to none but God.</p>
+            <p>Q. <hi>But is there ever any Angel or Man called ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>What does it argue, that the</hi> Meſſias <hi>is called ſo?</hi>
+            </p>
+            <pb n="22" facs="tcp:183680:17"/>
+            <p>
+               <hi>A.</hi> This: that he is God.</p>
+            <p>Q. <hi>Are there any other Names be<g ref="char:EOLhyphen"/>ſides this, that prove his Godhead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, his Name ſhould be cal<g ref="char:EOLhyphen"/>led <hi>Wonderful, Counſellor,</hi> the <hi>mighty God,</hi> the <hi>everlaſting Father,</hi> the <hi>Prince of Peace, Iſa.</hi> 9.6. <hi>Immanuel,</hi> Iſa. 6.14. <hi>David</hi> calls him his Lord, <hi>Pſ.</hi> 110.1 <hi>Jacob,</hi> the Angel, the Redeemer, <hi>Gen.</hi> 48.16. by <hi>Malachi</hi> he is ſtiled the Lord of the Temple, <hi>c.</hi> 3.1. elſewhere he is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Angel of God's preſence; or ra<g ref="char:EOLhyphen"/>ther the Angel, which is his Face, according to the Explication of the <hi>Rabbies,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ex.</hi> 3. <hi>Iſa.</hi> 63.1. Alſo <hi>Ex.</hi> 33.14. he ſays of himſelf, <hi>I am the Lord, the God of</hi> Abraham, <hi>of</hi> Iſaac, <hi>and of</hi> Jacob: All theſe Names do evince moſt clearly, that the <hi>Meſſias</hi> muſt be God, elſe he could not be called by any of theſe Names.</p>
+            <pb n="23" facs="tcp:183680:17"/>
+            <p>Q. <hi>From whence do you further prove his Godhead?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From his eternal Exiſtence: By <hi>Micah</hi> it's ſaid, that his goings forth hath been from of old, from everlaſting.</p>
+            <p>Q. <hi>Have you any other place for it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, in the eighth Chapter of the <hi>Proverbs, Meſſias</hi> the eternal Wiſdom of God, ſays of himſelf, <q>The Lord poſſeſſed me in the be<g ref="char:EOLhyphen"/>ginning of his way, before his works of old. I was ſet up from everlaſting, from the beginning, or ever the Earth was. When there were no depths, I was brought forth; when there were no foun<g ref="char:EOLhyphen"/>tains abounding with water, be<g ref="char:EOLhyphen"/>fore the mountains were ſetled, be<g ref="char:EOLhyphen"/>fore the hills, I was brought forth; while as yet he had not made the earth nor the fields, nor the high<g ref="char:EOLhyphen"/>eſt
+<pb n="24" facs="tcp:183680:18"/>part of the duſt of the world. When he prepared the Heavens, I was there: when he ſet a com<g ref="char:EOLhyphen"/>paſs upon the face of the depth, when he eſtabliſh'd the clouds about, when he ſtrengthened the fountains of the deep, when he gave to the ſea his decree, that the waters ſhould not paſs his com<g ref="char:EOLhyphen"/>mandments; when he appointed the foundations of the earth, then I was by him.</q>
+            </p>
+            <p>Q. <hi>What divine actions do you find of the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> The deſtroying the Power of the Devil.</p>
+            <p>Q. <hi>Was there ſuch a thing foretold of him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, God ſpeaks unto the Ser<g ref="char:EOLhyphen"/>pent, <hi>Gen.</hi> 3.15. <hi>I will put enmity be<g ref="char:EOLhyphen"/>tween thee and the woman, and between thy ſeed and her ſeed, it ſhall bruiſe thy head, and thou ſhalt bruiſe his heel.</hi>
+            </p>
+            <pb n="25" facs="tcp:183680:18"/>
+            <p>Q. <hi>What is here meant by the Seed of the Woman?</hi>
+            </p>
+            <p>
+               <hi>A</hi> The Meſſias, <hi>Seſ. Rabb.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, indeed this is the Meſ<g ref="char:EOLhyphen"/>ſias.</p>
+            <p>Q. <hi>Why is he called ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe he ſhould be born of a Virgin, according to that place, <hi>Behold a Virgin ſhall conceive, and bear a Son, and ſhall call his Name</hi> Imma<g ref="char:EOLhyphen"/>nuel, <hi>Iſa.</hi> 11.14.</p>
+            <p>Q. <hi>What is meant by the Serpent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Infernal Serpent, called the Devil, and Satan.</p>
+            <p>Q. <hi>Are there any Divine Works be<g ref="char:EOLhyphen"/>ſides this attributed to the</hi> Meſſias?</p>
+            <p>
+               <hi>A.</hi> Yes, there are, <hi>viz.</hi> the Crea<g ref="char:EOLhyphen"/>tion of Heaven and Earth, and the pouring out of the Holy Ghoſt.</p>
+            <pb n="26" facs="tcp:183680:19"/>
+            <p>Q. <hi>What ſays the</hi> Meſſias <hi>of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Concerning the firſt he ſays, <hi>Iſa.</hi> 48.12, 13. <hi>I am the first, I alſo am the last. Mine hand alſo has laid the Foundation of the Earth, and my right hand has ſpanned the Heavens.</hi> As for the other, theſe are his words, <hi>Zech.</hi> 12.10. <hi>I will pour upon the Houſe of</hi> David, <hi>and upon the Inha<g ref="char:EOLhyphen"/>bitants of</hi> Jeruſalem <hi>the ſpirit of Grace, and of Supplication, and they ſhall look upon me whom they have pierced.</hi>
+            </p>
+            <p>Q. <hi>What do you infer from this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Meſſias is God, which if he were not, he could perform neither of theſe Works.</p>
+            <p>Q. <hi>Do you know any other Divine Properties attributed to the</hi> Meſſias?</p>
+            <pb n="27" facs="tcp:183680:19"/>
+            <p>
+               <hi>A.</hi> Yes, ſeveral, <hi>viz.</hi> the Power to forgive ſins, <hi>Exod.</hi> 23.21. But who can forgive ſins but God? There<g ref="char:EOLhyphen"/>fore the <hi>Meſſias</hi> muſt be God.</p>
+            <p>Q. <hi>Being the</hi> Meſſias <hi>is God, tell me then how many Gods are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is but one God, that is without doubt, but there are more than one Perſon in the Deity.</p>
+            <p>Q. <hi>Prove this.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God ſpeaks of himſelf in the Plural, <hi>Gen.</hi> 1.26. <hi>Let us make man in our Image, after our likeneſs.</hi> Ch. 3.22. <hi>Behold, the man is become as one of us.</hi> Alſo Ch. 11.7. <hi>Let us go down.</hi>
+            </p>
+            <p>Q. <hi>Perhaps God ſpeaks of himſelf after the manner of earthly Princes.</hi>
+            </p>
+            <pb n="28" facs="tcp:183680:20"/>
+            <p>
+               <hi>A.</hi> No, that is not his way. In<g ref="char:EOLhyphen"/>tending to declare the greatneſs of his Majeſty, he deſcribes himſelf in the Singular, <hi>viz. I am the Lord Je<g ref="char:EOLhyphen"/>hovah. I am the Almighty God.</hi> Alſo it is againſt the Cuſtom of the Ori<g ref="char:EOLhyphen"/>ental Princes. <hi>Pharaoh</hi> and <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi> were wont to ſay, <hi>I Pha<g ref="char:EOLhyphen"/>raoh, I Nebuchadnezzar,</hi> beſides the expreſſion, <hi>as one of us,</hi> makes it evident, that there are more than one Perſon intended.</p>
+            <p>Q. <hi>But it may be God ſpeaks ſo in regard of the Angels.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That is Nonſence, God wants neither their Counſel, nor Aſſiſtance, nor Approbation. Moreover this would import the Creation of Man after the Angels Image, which is plain abſurdity and falſhood.</p>
+            <p>Q. <hi>But do others ſpeak of God af<g ref="char:EOLhyphen"/>ter that manncr?</hi>
+            </p>
+            <pb n="29" facs="tcp:183680:20"/>
+            <p>
+               <hi>A.</hi> Yes; for inſtance, <hi>Moſes, Gen.</hi> 19.22. ſays, <hi>The Lord rained upon Sodom, and upon Gomorrah Brimſtone and Fire from the Lord out of Heaven.</hi> Says <hi>Job, Where is God my makers?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>David,</hi>
+               <note place="margin">
+                  <hi>Job</hi> 35.10. <hi>Pſal.</hi> 149.2. <hi>Eccleſ.</hi> 12.1. <hi>Iſa.</hi> 42.5.</note> 
+               <hi>Let Iſrael rejoyce in thoſe that made him</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>So<g ref="char:EOLhyphen"/>lomon, Remember thy Creators</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Iſaiah</hi> calls God the Explainers of Heaven <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Q. <hi>How many Perſons are there in the Divine Eſſence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There are three, and thoſe revealed by God in the Old Teſta<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Q. <hi>Shew me the Trinity of Perſons there.</hi>
+            </p>
+            <p>
+               <hi>A. Deut.</hi> 6.4. The <hi>Hebrew</hi> Text has it thus, <hi>The Lord, our God, the Lord are one.</hi>
+            </p>
+            <pb n="30" facs="tcp:183680:21"/>
+            <p>Q. <hi>Let me ſee how you make out there the Three Perſons.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is (1.) The Lord. (2.) Our God. (3.) The Lord again. The firſt word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> means the Firſt Per<g ref="char:EOLhyphen"/>ſon, the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Second, and the laſt word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Third.</p>
+            <p>Q. <hi>Who taught you to explain theſe words thus?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not only the Original, but the Context alſo, where <hi>Moſes</hi> ſtirs up his Auditors to hear him in theſe words, <hi>Hear, O Iſrael;</hi> from whence it is clear that he intends to propoſe an eſpecial Myſtery of God, <hi>viz.</hi> The Unity of the Three Perſons.</p>
+            <p>Q. <hi>Do the Jews accept of this Ex<g ref="char:EOLhyphen"/>plication?</hi>
+            </p>
+            <p>
+               <hi>A. Rabbi Simeon Ben Jochas</hi> in <hi>Zobar</hi> explains theſe words; he part<g ref="char:EOLhyphen"/>ly
+<pb n="31" facs="tcp:183680:21"/>Teaches, That <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies as much as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they are one. He adds alſo, that here is a Myſtery revealed by the Holy Ghoſt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ad ſciendum, quod tres illi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſint unum,</hi> to ſet forth, that theſe three before<g ref="char:EOLhyphen"/>mentioned are one.</p>
+            <p>Q. <hi>Give more Proofs out of the Old Teſtament for the Trinity.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It's ſaid in <hi>Pſal.</hi> 45.8. <hi>Thy Throne, O God, is for ever and ever; thou lovest Righteouſneſs, therefore, O God, thy God has anointed thee with the Oyl of gladneſs.</hi> Here you find three Divine Perſons. 1. A Divine Perſon anointing. 2. Another a<g ref="char:EOLhyphen"/>nointed. And 3. The Oyl of Glad<g ref="char:EOLhyphen"/>neſs, by which is to be underſtood the Holy Ghoſt.</p>
+            <p>In <hi>Jer.</hi> 48. The <hi>Meſſias</hi> ſays, <hi>I am the first, I alſo am the last; mine hand hath laid the Foundation of the Earth, and my right hand has ſpanned
+<pb n="32" facs="tcp:183680:22"/>the Heavens — And now the Lord God has ſent me and his Spirit.</hi> Here are again three Divine Perſons, two ſending, the Lord and his Spirit, and another Divine Perſon ſent, the firſt and the laſt, the Maker of Heaven and Earth.</p>
+            <p>
+               <hi>Moſes</hi> in his Bleſſing regarding the Three Divine Perſons, repeated the Name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> three ſeveral times, <hi>Numb.</hi> 6.24, 25, 26. <hi>The Lord bleſs thee, and keep thee; The Lord make his face to ſhine upon thee, and be gra<g ref="char:EOLhyphen"/>cious unto thee; The Lord lift up his countenance upon thee, and give thee Peace.</hi> Again, <hi>David</hi> ſays, <hi>Pſal.</hi> 67.6, 7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>God our God ſhall bleſs us; God ſhall bleſs us, and all the ends of the earth ſhall fear him.</hi>
+            </p>
+            <p>Q. <hi>Why is the Second Perſon called Ours,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>our God, after a more eſpecial manner?</hi>
+            </p>
+            <pb n="33" facs="tcp:183680:22"/>
+            <p>
+               <hi>A.</hi> Becauſe he would be Ours more eſpecially, by taking our Fleſh and Blood upon himſelf, and be<g ref="char:EOLhyphen"/>coming our Redeemer and Saviour.</p>
+            <p>Q. <hi>Are theſe three Perſons called by different Names?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, they are; the firſt we call the Father, the ſecond Son, and the third the Holy Ghoſt.</p>
+            <p>Q. <hi>Are theſe Names expreſs'd in Scripture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes. <hi>Pſal.</hi> 89. God ſays, the Meſſias ſhall call him my Father. <hi>Pſal.</hi> 2.7. God the Father ſays, <hi>Thou art my Son, this day have I begotten thee.</hi> See <hi>Prov.</hi> 31.6. The Holy Ghoſt is often mentioned among other places. See <hi>Iſa.</hi> 48.16. <hi>Ch.</hi> 63.10.</p>
+            <pb n="34" facs="tcp:183680:23"/>
+            <p>Q. <hi>What does the word,</hi> His Spirit, <hi>mean in that place?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This, that he proceeds from the Father and the Son.</p>
+            <p>Q. <hi>Whoſe Son ſhould the</hi> Meſſias <hi>be?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Son of God, and the Son of Man.</p>
+            <p>Q. <hi>How ſhould he be the Son of God? Adopted of God, or begotten by God out of his Eſſence?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Begotten by God, as he is out of his Eſſence. Thus God ſays to the Meſſias, <hi>Pſal.</hi> 2. <hi>Thou art my Son, this day have I begotten thee.</hi>
+            </p>
+            <p>Q. <hi>This day, what is meant by that?</hi>
+            </p>
+            <pb n="35" facs="tcp:183680:23"/>
+            <p>
+               <hi>A.</hi> From Everlaſting; ſo the Meſ<g ref="char:EOLhyphen"/>ſias himſelf explains it, <hi>Prov.</hi> 8.22. <hi>The Lord poſſeſſed me in the beginning of his way, before his works of old.</hi> 23. <hi>I was ſet up from everlaſting from the beginning, or ever the Earth was.</hi> 24. <hi>When there were no depths, I was brought forth, when there were no foun<g ref="char:EOLhyphen"/>tains abounding with water.</hi> 25. <hi>Be<g ref="char:EOLhyphen"/>fore the mountains were ſettled, before the hills was I brought forth.</hi> 26. <hi>While as yet he had not made the earth, nor the fields, nor the higheſt part of the dust of the world.</hi> 27. <hi>When he pre<g ref="char:EOLhyphen"/>pared the Heavens I was there, when he ſet a compaſs upon the face of the depth.</hi> 28. <hi>When he eſtabliſhed the Clouds above, when he ſtrengthened the fountains of the depth.</hi> 29. <hi>When he gave to the Sea his Decree, that the water ſhould not paſs his Command<g ref="char:EOLhyphen"/>ment, when he appointed the Fountains of the Earth.</hi> 30. <hi>Then I was by him as one brought up with him, and I was daily his delight, rejoycing always
+<pb n="36" facs="tcp:183680:24"/>before him.</hi> 31. <hi>Rejoycing in the ha<g ref="char:EOLhyphen"/>bitable part of the Earth, and my de<g ref="char:EOLhyphen"/>lights were with the Sons of Men.</hi>
+            </p>
+            <p>Q. <hi>How are you ſure that the ſe<g ref="char:EOLhyphen"/>cond</hi> Pſalm <hi>does not ſpeak of</hi> David, Solomon, <hi>or any other, but the</hi> Meſ<g ref="char:EOLhyphen"/>ſias?</p>
+            <p>
+               <hi>A.</hi> 1. Becauſe God ſays he hath begotten him from Everlaſting, which cannot be ſaid of any Man. 2. Becauſe he promiſed to give him the Heathen for his Inheritance, and the uttermoſt parts of the Earth for his Poſſeſſion; whereas <hi>David</hi> as well as <hi>Solomon</hi> were ſo far from poſſeſſing them, that a great part of them were not in their time diſ<g ref="char:EOLhyphen"/>covered. Again, the ſame Pſalm towards the end, ſays, <hi>Kiſs the Son, leſt he be angry, and ye periſh from the way, when his wrath is kind<g ref="char:EOLhyphen"/>led but a little, bleſſed are all they that put their trust in him.</hi> Of any one that is no more than Man, the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="37" facs="tcp:183680:24"/>
+               <hi>Jeremiah</hi> ſays, Chap. 17.5. <hi>Curſed be the man that truſteth in man, and maketh fleſh his arm.</hi>
+            </p>
+            <p>Q. <hi>But was the</hi> Meſſias <hi>to be the Son of Man alſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, for that reaſon he is cal<g ref="char:EOLhyphen"/>led the Seed of the Woman, and the Son of Man.</p>
+            <p>Q. <hi>From what Family ſhould he deſcend?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From <hi>David</hi>'s; he is ſtyled the Branch of <hi>David, Iſa.</hi> 11.1. <hi>Jer.</hi> 25.5.</p>
+            <p>Q. <hi>Who was to be his Mother?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Virgin, according to <hi>Iſa.</hi> 7.14. <hi>Behold, a Virgin ſhall conceive, and bear a Son, and call his Name</hi> Imma<g ref="char:EOLhyphen"/>nuel.</p>
+            <pb n="38" facs="tcp:183680:25"/>
+            <p>Q. <hi>Having made ſo good a Con<g ref="char:EOLhyphen"/>feſſion concerning the Coming of the</hi> Meſſias, <hi>as alſo of his Perſon, and his Office, tell me now who this</hi> Meſſias <hi>is?</hi>
+            </p>
+            <p>
+               <hi>A</hi> The Lord Jeſus of <hi>Nazareth.</hi>
+            </p>
+            <p>Q. <hi>Do you firmly believe, and are fully convinced that Jeſus of</hi> Nazareth <hi>is that</hi> Meſſias <hi>which was promiſed to the fore-fathers?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I do firmly believe it, for I can find no other but him that could be the ſame.</p>
+            <p>Q. <hi>By what Arguments do you prove that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is plain and evident to Man<g ref="char:EOLhyphen"/>kind that all the Characters and Pro<g ref="char:EOLhyphen"/>perties attributed to the Meſſias by <hi>Moſes</hi> and the Prophets, are unde<g ref="char:EOLhyphen"/>niably fulfilled and made up in the ſaid Jeſus of <hi>Nazareth.</hi>
+            </p>
+            <pb n="39" facs="tcp:183680:25"/>
+            <p>Q. <hi>Explain this more clearly.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All the World is ſenſible that Jeſus of <hi>Nazareth</hi> did come at the time appointed for the Meſſias, <hi>viz.</hi> Before the Scepter departed from the Jews, before <hi>Jeruſalem</hi> and the Sanctuary were deſolated, before <hi>Bethlehem</hi> was deſtroyed, before Ob<g ref="char:EOLhyphen"/>lations and Sacrifices ceaſed, and be<g ref="char:EOLhyphen"/>fore the Seventy Weeks, mentioned in <hi>Daniel,</hi> were expired.</p>
+            <p>It is without queſtion that he came to the ſecond Temple, and taught in it, according to <hi>Haggai</hi> and <hi>Malachy</hi>'s Prophecy.</p>
+            <p>Alſo it is evident that he was Born at <hi>Bethlehem,</hi> the place appoint<g ref="char:EOLhyphen"/>ed by <hi>Micah.</hi>
+            </p>
+            <p>It's undeniable that Forty Years after his Death the City and Temple were deſtroyed, and the Oblations ceaſed.</p>
+            <p>It's univerſally known that in the latter end of thoſe Seventy Weeks
+<pb n="40" facs="tcp:183680:26"/>he dyed, being murdered and killed after a violent and horrible manner, like a Malefactor, crucified accord<g ref="char:EOLhyphen"/>ing to the ſence and ſound of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> expreſt in <hi>Daniel, Ch.</hi> 9. <hi>v.</hi> 26.</p>
+            <p>It is paſt contradiction, that the Jews were offended at Jeſus of <hi>Na<g ref="char:EOLhyphen"/>zareth,</hi> the ſame which <hi>Iſaiah</hi> fore<g ref="char:EOLhyphen"/>told ſhould befal the Meſſias, as is expreſs'd <hi>Ch.</hi> 8. <hi>v.</hi> 13, 14. and <hi>Ch</hi> 53. <hi>v.</hi> 2, 3. All which happening thus to Jeſus of <hi>Nazareth,</hi> is a clear De<g ref="char:EOLhyphen"/>monſtration of his being the true Meſſias.</p>
+            <p>Q. <hi>Is there any thing more foretold of the</hi> Meſſias, <hi>and fulfilled in Jeſus of</hi> Nazareth?</p>
+            <p>
+               <hi>A.</hi> Yes, there is, <hi>viz.</hi> 'Tis evi<g ref="char:EOLhyphen"/>dently known that the People and Nations do cleave to the Lord Jeſus as they ſhould do to the Meſſias, ac<g ref="char:EOLhyphen"/>cording to <hi>Iſa.</hi> 2.2. Alſo, that Je<g ref="char:EOLhyphen"/>ſus performed thoſe Miracles, which
+<pb n="41" facs="tcp:183680:26"/>the Meſſias ſhould do, in making the Blind to ſee, the Deaf to hear, the Lame to walk, <hi>Iſa.</hi> 35.5, 6. Al<g ref="char:EOLhyphen"/>ſo, that he is the Off-ſpring of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> born of a Virgin, as the Meſ<g ref="char:EOLhyphen"/>ſias ſhould be, <hi>Iſa.</hi> 7.14. Alſo, that he has given a New Covenant, as <hi>Iſaiah, Chap.</hi> 2. and <hi>Jeremiah, Ch.</hi> 31. had foretold. In fine, there is not one jot or tittle excepted of all that which was propheſied of the Meſſias, but was moſt exactly compleated in and by Jeſus of <hi>Nazareth;</hi> there<g ref="char:EOLhyphen"/>fore it is no leſs true, that Jeſus of <hi>Nazareth</hi> is the true Meſſias, than that God Almighty is a true God.</p>
+            <p>Q. <hi>What Appeal to the veracity of God do you make here?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I obſerve, that to give falſe Attributes to the Meſſias when pro<g ref="char:EOLhyphen"/>miſed, or to alter thoſe that once were given or publiſhed, are things too abſurd and blaſphemous to be thought of God. <hi>God is not a Man,
+<pb n="42" facs="tcp:183680:27"/>that he ſhould lye; meither the Son of Man, that he ſhould repent. Hath he ſaid, and ſhall he not do it? Or has he ſpoken, and ſhall he not make it good?</hi> Much leſs probable is it that God would have ſuffered the true Cha<g ref="char:EOLhyphen"/>racters of the promiſed Meſſias to come to paſs in a falſe one, to the loſs of ſo many Millions of Souls; to ſay this, is no leſs than to make God a Lyar and Impoſtor, which is horrid Blaſphemy all over. Thus upon the impoſſibility of God's be<g ref="char:EOLhyphen"/>ing a Lyar, is grounded the neceſ<g ref="char:EOLhyphen"/>ſity of this Truth, that Jeſus of <hi>Na<g ref="char:EOLhyphen"/>zareth</hi> is the true Meſſias.</p>
+            <p>Q. <hi>What is Jeſus in</hi> Engliſh?</p>
+            <p>
+               <hi>A.</hi> A Saviour.</p>
+            <p>Q. <hi>What is he as to his Perſon?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Both God and Man in one Perſon.</p>
+            <pb n="43" facs="tcp:183680:27"/>
+            <p>Q. <hi>How many Natures are in him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two the Divine and Humane.</p>
+            <p>Q. <hi>Whence proceeds his Divine Na<g ref="char:EOLhyphen"/>ture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From his Father in Heaven.</p>
+            <p>Q. <hi>Whence comes his Humane Na<g ref="char:EOLhyphen"/>ture?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From his Mother the Virgin <hi>Mary.</hi>
+            </p>
+            <p>Q. <hi>How many ſtates are there in Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two, that of Humiliation, and that of Exaltation.</p>
+            <p>Q. <hi>In which Nature did Christ de<g ref="char:EOLhyphen"/>grade himſelf?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In his Humane Nature.</p>
+            <p>Q. <hi>In which Nature was he exalted?</hi>
+            </p>
+            <pb n="44" facs="tcp:183680:28"/>
+            <p>
+               <hi>A.</hi> In his Humane Nature alſo.</p>
+            <p>Q. <hi>What Circumſtances do belong to</hi> his Humiliation?</p>
+            <p>
+               <hi>A.</hi> His mean ſort of Life, grievous Paſſion, and infamous Death.</p>
+            <p>Q. <hi>Where began his ſtate of Exal<g ref="char:EOLhyphen"/>tation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> At his vivification.</p>
+            <p>Q. <hi>What follows after that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His deſcenſion into Hell, then his Reſurrection, Aſcenſion, and ſit<g ref="char:EOLhyphen"/>ting at the Right Hand of God.</p>
+            <p>Q. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Spirit.</p>
+            <p>Q. <hi>What do you mean when you ſay God is a Spirit?</hi>
+            </p>
+            <pb n="45" facs="tcp:183680:28"/>
+            <p>
+               <hi>A.</hi> This, that in his Nature he hath neither Fleſh nor Bone.</p>
+            <p>Q. <hi>How then does the Scripture men<g ref="char:EOLhyphen"/>tion his Eyes, Ears, Hands,</hi> &amp;c. <hi>And what do they ſignifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God's Properties, <hi>viz.</hi> His Pro<g ref="char:EOLhyphen"/>vidence, readineſs to hear, and Om<g ref="char:EOLhyphen"/>nipotency: Thus, to ſit at God's Right Hand, is as much as to Rule and Reign over all things in Divine Omnipotency.</p>
+            <p>Q. <hi>What is the Lord Jeſus, accord<g ref="char:EOLhyphen"/>ing to his Office?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That which the Meſſias ſhould be; A King, an High-Prieſt, and a Prophet.</p>
+            <p>Q. <hi>How does he perform his Office?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Like a King he Governs and Protects his Church: Like an High-Prieſt he did Sacrifice himſelf for us,
+<pb n="46" facs="tcp:183680:29"/>and makes interceſſion for us: And like a Prophet he did Preach the Goſpel, and has given us a New Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>Q <hi>What Covenant is that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The New Teſtament.</p>
+            <p>Q. <hi>The Old Teſtament had its ex<g ref="char:EOLhyphen"/>ternal viſible ſigns and means of Grace, whereby the Jews were diſtinguiſhed from all other Nations; Is there any of the like in the New Covenant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, there is, to wit, Baptiſm and the Lord's Supper.</p>
+            <p>Q. <hi>What is Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptiſm is not meer Water; but it is Water related and joyned to the Word of God.</p>
+            <p>Q. <hi>To which Word of God?</hi>
+            </p>
+            <pb n="47" facs="tcp:183680:29"/>
+            <p>
+               <hi>A.</hi> To that which our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt ſays in St. <hi>Matthew</hi>'s Go<g ref="char:EOLhyphen"/>ſpel, Chap. 29. v. 19. <hi>Go ye and teach all Nations</hi> (or, according to the <hi>Greek,</hi> make all Nations become Di<g ref="char:EOLhyphen"/>ſciples) <hi>baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost.</hi>
+            </p>
+            <p>Q. <hi>What is the Effect and Uſe of Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptiſm works Forgiveneſs of Sins, delivers from Death and the Devil, and gives everlaſting Salva<g ref="char:EOLhyphen"/>tion to all Believers, according to the Word and Promiſe of God.</p>
+            <p>Q. <hi>Which Word and Promiſe of God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That of our Lord Jeſus Chriſt, <hi>Mark</hi> 16.16. <hi>He that believeth, and is baptized, ſhall be ſaved, but he that believeth not, ſhall be damned.</hi>
+            </p>
+            <pb n="48" facs="tcp:183680:30"/>
+            <p>Q. <hi>How can Water effect ſuch great things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is not Water that does it, but the Word of God related and joyned to the Water, and Faith that relies on the Word of God concern<g ref="char:EOLhyphen"/>ing the Water; for without the Word of God Water is meer Water, and no Baptiſm, but with the Word of God it is a Baptiſm; that is to ſay, a Saving Water of Life, and Bath of the New Birth in the Holy Ghoſt, as St. <hi>Paul</hi> ſays in his Epiſtle to <hi>Titus,</hi> Chap. 3.5, 6, 7. <hi>According to his mercy he ſaved us by the waſhing of Regeneration, and renewing of the Holy Ghost, which he ſhed on us a<g ref="char:EOLhyphen"/>bundantly through Jeſus Christ our Saviour, that being juſtified by his Grace, we ſhould be made heirs ac<g ref="char:EOLhyphen"/>cording to the hope of Eternal Life. This is a faithful ſaying.</hi>
+            </p>
+            <pb n="49" facs="tcp:183680:30"/>
+            <p>Q. <hi>What is the Myſtical Significa<g ref="char:EOLhyphen"/>tion of Baptiſm?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It ſignifies, that by daily Re<g ref="char:EOLhyphen"/>pentance and Sorrow, the old <hi>A<g ref="char:EOLhyphen"/>dam,</hi> together with all ſins and in<g ref="char:EOLhyphen"/>clinations, muſt be drowned and dye, and riſe again a new man to live with God eternally in holineſs and righteouſneſs.</p>
+            <p>Q. <hi>What Scripture have you for that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> S. <hi>Paul</hi> ſays, <hi>Rom.</hi> 6.4. <hi>We are buried with Chriſt by Baptiſm into death, that like as Chriſt was raiſed up from the dead by the glory of the Father, even ſo we alſo ſhould walk in newneſs of life.</hi>
+            </p>
+            <p>Q. <hi>Did God in the Old Teſtament promiſe ſuch a Baptiſm as ſhould be a Remedy againſt Sin, and for Regenera<g ref="char:EOLhyphen"/>tion and Renovation?</hi>
+            </p>
+            <pb n="50" facs="tcp:183680:31"/>
+            <p>
+               <hi>A.</hi> Yes, in the Prophecy of <hi>Eze<g ref="char:EOLhyphen"/>kiel, c.</hi> 36. <hi>v.</hi> 25. God made this Promiſe: <hi>I will ſprinkle clean water upon you, and you ſhall be clean: from all your filthineſs, and from all your Idols will I cleanſe you.</hi> Alſo in <hi>Ze<g ref="char:EOLhyphen"/>chariah</hi> 13.1. <hi>In that day there ſhall be a fountain opened to the houſe of</hi> David, <hi>and to the inhabitants of</hi> Jeruſalem, <hi>for ſin and for uncleanneſs.</hi>
+            </p>
+            <p>Q. <hi>Do you deſire holy Baptiſm in order to be cleanſed from your Sins by it, and to be regenerated and renew<g ref="char:EOLhyphen"/>ed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, to that purpoſe I do heartily deſire it.</p>
+            <p>Q. <hi>Are you a Sinner then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I am a Sinner.</p>
+            <p>Q. <hi>What is a Sinner, and what is Sin?</hi>
+            </p>
+            <pb n="51" facs="tcp:183680:31"/>
+            <p>
+               <hi>A.</hi> A Sinner is a Tranſgreſſor, and Sin is the Tranſgreſſion of the Law.</p>
+            <p>Q. <hi>Tranſgreſſion? what is that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The doing the Evil forbid<g ref="char:EOLhyphen"/>den, and the leaving undone the Good commanded.</p>
+            <p>Q. <hi>How manifold is Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Twofold, original and actual.</p>
+            <p>Q. <hi>What is Original Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The inborn Corruption of Nature, wanting the Image of God, and abounding of inward Luſts and Inclinations to Evil: <hi>Gen.</hi> 6.5.</p>
+            <p>Q. <hi>What is actual Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Tranſgreſſion commit<g ref="char:EOLhyphen"/>ted by Man during his Life, in
+<pb n="52" facs="tcp:183680:32"/>thought, word and deed, openly or ſecretly, againſt knowledge, or with<g ref="char:EOLhyphen"/>out knowledge, deſignedly or by precipitation, <hi>&amp;c.</hi>
+            </p>
+            <p>Q. <hi>Are you guilty of both theſe ſorts of Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I was ſhapen in Iniqui<g ref="char:EOLhyphen"/>ty, and in Sin did my Mother con<g ref="char:EOLhyphen"/>ceive me: I have alſo many times actually tranſgreſſed the Command<g ref="char:EOLhyphen"/>ments of God.</p>
+            <p>Q. <hi>Rehearſe the Ten Command<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 
+               <q>God ſpake all theſe words and ſaid, I am the Lord thy God, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>Q. <hi>What have you deſerved from God for your Sins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His Wrath and Anger, tem<g ref="char:EOLhyphen"/>poral Death, and eternal Damna<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="53" facs="tcp:183680:32"/>
+            <p>Q. <hi>What has Chriſt done for you in order to ſave you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He died for me, and ſhed his moſt precious Blood for the forgive<g ref="char:EOLhyphen"/>neſs of my Sins.</p>
+            <p>Q. <hi>What has he done more for you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He has fulfilled the Law of God inſtead of me.</p>
+            <p>Q. <hi>How do you lay bold on the Me<g ref="char:EOLhyphen"/>rits of the Lord Jeſus?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By believing in him with a lively Faith.</p>
+            <p>Q. <hi>Do you steadfaſtly believe then in the Lord Jeſus, according to this Confeſſion of yours? And will you live and dye upon this Faith, which you have profeſſed here before God and this holy Congregation?</hi>
+            </p>
+            <pb n="54" facs="tcp:183680:33"/>
+            <p>
+               <hi>A.</hi> I will, with the help of God, and the aſſiſtance of the Holy Ghoſt.</p>
+            <p>Q. <hi>Will you be baptiſed upon this Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, with all my Heart.</p>
+            <p>After this, the reſt of the Solem<g ref="char:EOLhyphen"/>nity was perform'd according to the ſettled Form and Rites of Publick Baptiſm in the <hi>Lu<g ref="char:EOLhyphen"/>theran</hi> Church.</p>
+            <closer>SOLI DEO GLORIA.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:183680:33"/>
+            <head>BOOKS lately Printed for <hi>John Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultry.</hi>
+            </head>
+            <p>PROPOSALS for printing of a Book of <hi>William Leybourn</hi>'s Author of the late <hi>Curſus Mathematicus,</hi> and of divers other Ma<g ref="char:EOLhyphen"/>thematical Tractates, who hath now by him a <hi>Miſcellaneous Manuſcript,</hi> ready for the Preſs, which he intends to title <hi>Pleaſure with Profit,</hi> it conſiſting of Recreations <hi>Numerical, Geometrical, Mechanical, Optical, Aſtronomi<g ref="char:EOLhyphen"/>cal, Horometrical, Cryptographical, Statical, Magnetical, Automatical, Chymical, Hiſtori<g ref="char:EOLhyphen"/>cal;</hi> publiſhed for the Ingenious to make further Scrutiny into theſe (and the like) ſublime Sciences. This Book, when printed, will contain above 100 Sheets, with near 200 Cuts: And to the end that this Work may come to publick view in the Author's Life<g ref="char:EOLhyphen"/>time, he preſents the following Overture (for the promotion of it) to all <hi>Maſters, Heads, Provoſts, Fellows, Scholars,</hi> &amp;c. of both <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſities;</hi> to all publick and private <hi>School<g ref="char:EOLhyphen"/>maſters, <g ref="char:V">Ʋ</g>ſhers,</hi> and <hi>Scholars</hi> under them; to all <hi>Gentlemen of Inns of Court or Chancery;</hi> and to all other <hi>Private Gentlemen of what
+<pb facs="tcp:183680:34"/>degree ſoever.</hi> The <hi>Propoſals</hi> are as follow<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi> (1.) The Subſcribers to give 13 <abbr>
+                  <hi>s.</hi>
+               </abbr> and 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> for each Book in Quires, whereof 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> is to be paid at the time of Subſcription, and 7 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> at the delivery of the Book. (2.) To encourage all perſons that ſhall con<g ref="char:EOLhyphen"/>tribute to the procuring Subſcriptions for ſix, they ſhall have a ſeventh <hi>gratis.</hi> (3) All who intend to aſſiſt in the advancement of this <hi>
+                  <g ref="char:V">Ʋ</g>ſeful Work,</hi> are deſired to ſend in their Subſcriptions with all ſpeed, unto the perſons hereunder named, where printed Receipts ſhall be given them; and if they ariſe to a competent number, the Book ſhall be finiſh'd by <hi>Mid ſummer <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</hi> The Undertakers are <hi>Dorman Newman, Richard Baldwin,</hi> and <hi>John Dunton.</hi>
+            </p>
+            <p>
+               <hi>The Agreement in Doctrine,</hi> among the diſſenting Miniſters in <hi>London,</hi> ſubſcribed <hi>Dec.</hi> 16. 1692.</p>
+            <p>
+               <hi>The fifth Edition of the ſecond</hi> Spira.</p>
+            <p>A <hi>Conference</hi> between a Modern <hi>Atheist,</hi> and his Friend: By the methoder of the ſe<g ref="char:EOLhyphen"/>cond <hi>Spira;</hi> printed in the ſame ſize, that they might be bound up together.</p>
+            <p>
+               <hi>An Earneſt Call to Family-Catechiſm and Reformation:</hi> By a Reverend Divine. Seve<g ref="char:EOLhyphen"/>ral Miniſters and private Chriſtions peruſing this piece earneſtly moved for its publica<g ref="char:EOLhyphen"/>tion, which the Reverend Author at length conſented to, the following Propoſals is now made, for the general diſperſing of it, <hi>viz.</hi> 
+               <q>That whatever Gentlemen will be ſo publick ſpirited, as to give Fifty of them away,</q> they
+<pb facs="tcp:183680:34"/>ſhall have that number for Twenty ſhillings, ſtitch'd up in blew Paper, and ready cut: But as for others who buy leſſer numbers, they muſt not expect them under Six-pence <hi>per</hi> Book.</p>
+            <p>
+               <hi>Theodore John</hi>'s Confeſſion of the Chriſtian Faith, before he was baptiz'd.</p>
+            <p>
+               <hi>The Day of Jubilee;</hi> or, A plain and a practical Diſcourſe of the Saints gathering together, and of their meeting the Lord in Glory at his ſecond coming, on 1 <hi>Theſſ.</hi> 4.17. By <hi>John Brandon</hi> Rector of <hi>Winchamſtead</hi> in <hi>Berks.</hi> This Sermon is not yet out, but will be publiſh'd in about a fortnights time.</p>
+            <p>The late Tryals of ſeveral Witches: publiſhed by <hi>Cotton Mather.</hi>
+            </p>
+            <p>The Fourth Edition of the New Mar<g ref="char:EOLhyphen"/>tyrology; or, Bloody Aſſizes. With Additi<g ref="char:EOLhyphen"/>ons ſo large, as renders it a new <hi>Secret Hiſtory</hi> of the late Times.</p>
+            <p>The Sence of the united Nonconfor<g ref="char:EOLhyphen"/>ming Miniſters, againſt ſome of Mr. <hi>Davis</hi>'s erroneous Opinions.</p>
+            <p>Caſuiſtical Morning Exerciſes, the Fourth Volume.</p>
+            <p>Heads of Agreement, aſſented to by the United Miniſters.</p>
+            <p>The Country Concurrence with the <hi>Lon<g ref="char:EOLhyphen"/>don</hi> united Miniſters: By <hi>S. Chandler.</hi>
+            </p>
+            <p>The ſecond Edition of Goſpel-Truth ſtated.</p>
+            <p>
+               <hi>A Defence of Goſpel-Truth;</hi> being a Reply to Mr. <hi>Chancy</hi>'s Firſt Part.</p>
+            <pb facs="tcp:183680:35"/>
+            <p>A Diſcourſe ſhewing what Repentance of National Sins God requires.</p>
+            <p>The Vanity of Childhood and Youth.</p>
+            <p>The Life of Mr. <hi>Thomas Brand,</hi> by Dr. <hi>Anneſley.</hi>
+            </p>
+            <p>The Mourners Companion, by <hi>J. Shower.</hi>
+            </p>
+            <p>A Practical Diſcourſe on Sickneſs and Re<g ref="char:EOLhyphen"/>covery.</p>
+            <p>
+               <hi>Early Religion,</hi> or a Diſcourſe of the Duty of Youth.</p>
+            <p>
+               <hi>Fall not out by the way:</hi> or, a Perſwaſion to a Friendly Correſpondence between Brethren of the ſame Faith. All Three by <hi>J. Rogers,</hi> M. A.</p>
+            <p>
+               <hi>The Life and Death</hi> of the Reverend Mr. <hi>Eliot.</hi> By <hi>Cotton Mather.</hi>
+            </p>
+            <p>Mr. <hi>Barker</hi>'s <hi>Flores Intellectuales;</hi> both Parts.</p>
+            <p>
+               <hi>A Compleat Hiſtory</hi> of the remarkable Peni<g ref="char:EOLhyphen"/>tents that have been executed at <hi>Tyburn,</hi> and elſewhere for theſe laſt Thirty years. Toge<g ref="char:EOLhyphen"/>ther with Mr. <hi>Increaſe Mather</hi>'s Sermon to a condemned Malefactor about an hour before his Exeoution.</p>
+            <p>Mr. <hi>Quick</hi>'s Young Man's Claim to the Sa<g ref="char:EOLhyphen"/>crament.</p>
+            <p>A Practical Diſcourſe on the late Earth<g ref="char:EOLhyphen"/>quakes.</p>
+            <p>Mr. <hi>Crow</hi>'s Vanity of Judicial Aſtrology.</p>
+            <p>Mr. <hi>Oakts</hi>'s Funeral Sermon.</p>
+            <p>Mr. <hi>Kent</hi>'s Funeral Sermon. By Mr. <hi>Sam. Slater.</hi>
+            </p>
+            <p>The Celeſtial Race. By Mr. <hi>Buſh.</hi>
+            </p>
+            <pb facs="tcp:183680:35"/>
+            <p>Mr. <hi>Daxter</hi>'s Sermon on a Perſon that dy'd ſuddenly.</p>
+            <p>All the <hi>Eight Volumes</hi> of the <hi>Athenian Ga<g ref="char:EOLhyphen"/>zette,</hi> with a general, full Preface and Index to them, or ſingle Mercuries to this time.</p>
+            <p>The <hi>Firſt Volume</hi> of the Compleat Library, with two Alphabetical Tables.</p>
+            <p>The <hi>Second Volume</hi> of the Compleat Libra<g ref="char:EOLhyphen"/>ry for <hi>December, January</hi> and <hi>February;</hi> that for <hi>March</hi> is now in the Preſs.</p>
+            <p>
+               <hi>A Mourning Ring</hi> in memory of your De<g ref="char:EOLhyphen"/>parted Friend. The Second Edition.</p>
+            <p>
+               <hi>The Young Students Library,</hi> publiſhed by the <hi>Athenian</hi> Society.</p>
+            <p>— <hi>A Scheme of Enquiries,</hi> publiſh'd by the <hi>Athenian</hi> Society.</p>
+            <p>— An <hi>Ode</hi> to the <hi>Athenian</hi> Society.</p>
+            <p>— The Viſions of the Soul, by a Member of the <hi>Athenian</hi> Society.</p>
+            <p>The <hi>Entire Sett</hi> of <hi>Athenian</hi> Gazettes, with the Supplements to them, bound up all toge<g ref="char:EOLhyphen"/>ther for the Year 1691. with an Alphabetical Table for the whole Year.</p>
+            <p>The Hiſtory of the <hi>Athenian</hi> Society.</p>
+            <p>An Account of the Diviſions amongſt the Quakers in <hi>Penſylvania.</hi>
+            </p>
+            <p>— A further Account of the Divi<g ref="char:EOLhyphen"/>ſions of the Quakers in <hi>Penſylvania.</hi>
+            </p>
+            <p>The Principles, Doctrines, Laws and Or<g ref="char:EOLhyphen"/>ders of the Quakers.</p>
+            <p>The Character of a <hi>Williamite,</hi> by a Divine of the Church of <hi>England.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>The Character of a <hi>Jacobite,</hi> by a Perſon of Quality. Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <pb facs="tcp:183680:36"/>
+            <p>
+               <hi>Religio Bibliopolae,</hi> in Imitation of Dr. <hi>Brown</hi>'s <hi>Religio Medici.</hi>
+            </p>
+            <p>The <hi>Double Deſcent,</hi> a Poem.</p>
+            <p>The <hi>Divine Capttain.</hi> By Mr. <hi>Hickringal.</hi>
+            </p>
+            <p>
+               <hi>Infant-Baptiſm</hi> ſtated, in au Eſſay to vindi<g ref="char:EOLhyphen"/>cate its lawſulneſs from the Teſtimony of Holy Scripture; with an account of a Con<g ref="char:EOLhyphen"/>ference publickly held with an <hi>Antipoedo-Bap<g ref="char:EOLhyphen"/>tiſt</hi> of no ſmall Fame. By <hi>J.</hi> R. a Presbyter of the Church of <hi>England.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
